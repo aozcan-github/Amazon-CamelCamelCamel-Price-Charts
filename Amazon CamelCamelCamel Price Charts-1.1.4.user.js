@@ -1,9 +1,13 @@
+// ============================================================================
+// TAMPERMONKEY USERSCRIPT
+// ============================================================================
 // ==UserScript==
 // @name             Amazon CamelCamelCamel Price Charts
 // @version          1.1.4
 // @description      Add CamelCamelCamel price charts to Amazon product pages.
-// @author           aozcan
-// @homepageURL      https://github.com/aozcan-github/Amazon-CamelCamelCamel-Price-Charts/
+// @author           YourName
+// @homepageURL      https://github.com/yourusername/your-repo-name
+// @namespace        https://tampermonkey.net/
 // @include          https://www.amazon.*/*
 // @run-at           document-end
 // @grant            GM_xmlhttpRequest
