@@ -5,8 +5,8 @@
 // @name             Amazon CamelCamelCamel Price Charts
 // @version          1.1.4
 // @description      Add CamelCamelCamel price charts to Amazon product pages.
-// @author           YourName
-// @homepageURL      https://github.com/yourusername/your-repo-name
+// @author           aozcan
+// @homepageURL      https://github.com/aozcan-github/Amazon-CamelCamelCamel-Price-Charts/
 // @namespace        https://tampermonkey.net/
 // @include          https://www.amazon.*/*
 // @run-at           document-end
